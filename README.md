@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&&color=FF0000&height=300&section=header&text=Sungwon&fontSize=75&fontColor=87CEEB)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftrevivom76%2Fhit-counter&count_bg=%23A9B3E5&title_bg=%230F0F04&icon=apachespark.svg&icon_color=%23CD2D2D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                  
 <br>
 
 
