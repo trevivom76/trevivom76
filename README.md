@@ -39,15 +39,11 @@ Welcome to the 🦔[**my Instagram!!**](https://www.instagram.com/ssafy_swony/)
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
-
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevivom76&layout=compact">
-<br>
-
 ### Studying
-- **Python** (~ July)
-- **Java** (~ August)
-- **Algorithm** by Python (July ~ )
-- **Algorithm** by Java (July ~ )
+- **Python** (~ December)
+- **Java** (December ~ )
+- **Algorithm** by Python (24 July ~ December)
+- **Algorithm** by Java (December ~ )
+- **React** (December ~ )
 <br>
 
