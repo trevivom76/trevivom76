@@ -3,51 +3,52 @@
 <br>
 
 
-# Tae Sungwon's Github
-
-## **Instroduction**
-<br>
-
+# Hello 😆
+**매일 매일 성장**을 목표로 하는 **태성원**입니다!!
 ```
-- 📚 개발과 관련된 직업을 희망하고 있기 때문에 SW 교육을 배우고 있습니다.
-- 🔠 I am learning SW education because I want a job related to development.
+📚 개발과 관련된 직업을 희망하고 있기 때문에 SW 교육을 배우고 있습니다.
+🔠 I am learning SW education because I want a job related to development.
 
-- 💻 제가 배우고 있는 프로그래밍 언어는 파이썬과 자바입니다.
-- 🔠 The Programming languages I am learning so far are Python and Java.
+💻 제가 배우고 있는 프로그래밍 언어는 파이썬과 자바입니다.
+🔠 The Programming languages I am learning so far are Python and Java.
 
-- 🙋‍♂ 내향적인 성격이지만 사람들과 친해지기 위해 많은 노력을 기울이며 살고 있으며, 계획적인 삶을 살아가며 효율적인 삶을 추구합니다.
-- 🔠 Although I am an introvert, I live with a lot of effort to get close to people, and I live a planned life and pursue an efficient life.
+🙋‍♂ 내향적인 성격이지만 사람들과 친해지기 위해 많은 노력을 기울이며 살고 있으며, 계획적인 삶을 살아가며 효율적인 삶을 추구합니다.
+🔠 Although I am an introvert, I live with a lot of effort to get close to people, and I live a planned life and pursue an efficient life.
 
-- 🔜 앞으로 6개월 동안 파이썬이란 언어를 꾸준히 학습하여 능숙하게 다루는 것, 또한 꾸준한 학습을 통해 알고리즘에 대한 탄탄한 지식을 습득하는 것이 목표입니다.
-- 🔠 The goal set over the next six months is to steadily learn the language called Python and deal with it skillfully, and to acquire solid knowledge of algorithms through steady learning.
 
 - 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
+
+Show 🦔[**my Tech Blog**](https://swonbedev.tistory.com/) <br>
+Welcome to the 🦔[**my Instagram!!**](https://www.instagram.com/ssafy_swony/)
 ```
 <br>
 
-## **Links**
-
-<br>
-
-Show 🦔[**my Tech Blog**](https://suuuuung.tistory.com/) <br>
-Welcome to the 🦔[**my Instagram!!**](https://www.instagram.com/dev_sungco/)
 
 
-
-<br>
-<br>
-
-<br>
-
-
-## **Stacks**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+## **Tech Stacks**
+<div>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-the-square&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-the-square&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-the-square&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-the-square&logo=Vue.js&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
 
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevivom76&layout=compact">
 <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 ### Studying
 - **Python** (~ July)
