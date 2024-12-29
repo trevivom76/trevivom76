@@ -16,12 +16,11 @@
 🔠 Although I am an introvert, I live with a lot of effort to get close to people, and I live a planned life and pursue an efficient life.
 
 
-- 👀 If you want to know me more click to my tech blog link! ⬇️⬇️
-
-Show 🦔[**my Tech Blog**](https://swonbedev.tistory.com/) <br>
-Welcome to the 🦔[**my Instagram!!**](https://www.instagram.com/ssafy_swony/)
 ```
 <br>
+
+🦔[**my Tech Blog**](https://swonbedev.tistory.com/) <br>
+🦔[**my Instagram!!**](https://www.instagram.com/ssafy_swony/)
 
 
 
